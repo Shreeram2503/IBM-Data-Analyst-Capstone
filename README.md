@@ -287,3 +287,11 @@ IBM-Data-Analyst-Capstone-Project/
 ├── screenshots/
 ├── README.md
 └── requirements.txt
+
+Author
+
+T Shreeram Rohit
+
+IBM Data Analyst Professional Certificate Learner
+
+Aspiring Data Analyst | Python | SQL | Data Visualization | Dashboarding
