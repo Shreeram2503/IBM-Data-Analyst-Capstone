@@ -1,52 +1,71 @@
-\# Module 1 — Data Collection
+# Module 1 — Data Collection
 
+## Overview
 
+This module focuses on collecting and exploring data from multiple sources using APIs, web scraping, CSV files, and databases.
 
-\## Overview
+The goal of this module was to gather datasets required for analyzing technology trends, programming language demand, salary insights, and developer preferences.
 
+---
 
+## Objectives
 
-This module focuses on collecting and exploring data using APIs and web scraping techniques.
+- Collect data using APIs
+- Perform web scraping
+- Explore datasets
+- Understand dataset structures
+- Prepare datasets for analysis
 
+---
 
+## Tasks Performed
 
-\## Topics Covered
+### API Data Collection
 
+Collected job posting data using APIs and exported the results into structured datasets.
 
+### Web Scraping
 
-\- Collecting data using APIs
+Performed web scraping to collect information about programming language salary trends.
 
-\- Web scraping
+### Dataset Exploration
 
-\- Exploring datasets
+- Explored survey datasets
+- Reviewed dataset columns and structure
+- Performed initial data inspection
 
+---
 
+## Key Findings
 
-\## Tools Used
+- C showed the highest number of job postings.
+- Java also maintained strong job demand.
+- Swift demonstrated one of the highest average salary trends.
+- Python and C++ showed strong salary competitiveness.
 
+---
 
+## Files Included
 
-\- Python
+- Jupyter notebooks
+- CSV files
+- Excel files
+- Screenshots
 
-\- Pandas
+---
 
-\- Requests
+## Tools Used
 
-\- BeautifulSoup
+- Python
+- Pandas
+- Requests
+- BeautifulSoup
+- Jupyter Notebook
 
-\- Jupyter Notebook
+---
 
+## Outcomes
 
-
-\## Key Learnings
-
-
-
-\- Extracting data from APIs
-
-\- Scraping web data
-
-\- Loading and exploring datasets
-
-\- Working with structured data
-
+- Collected real-world developer-related datasets
+- Built foundational data collection workflows
+- Prepared datasets for cleaning and analysis
