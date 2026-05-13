@@ -250,43 +250,23 @@ The final presentation was exported as PDF format.
 
 # Repository Structure
 
-```text
 IBM-Data-Analyst-Capstone-Project/
 │
-├── Module-1-Data-Collection/
-│   ├── notebooks/
-│   ├── datasets/
-│   └── README.md
-│
-├── Module-2-Data-Wrangling/
-│   ├── notebooks/
-│   ├── datasets/
-│   └── README.md
-│
-├── Module-3-EDA/
-│   ├── notebooks/
-│   ├── visualizations/
-│   └── README.md
-│
-├── Module-4-Data-Visualization/
-│   ├── notebooks/
+├── assets/
+│   ├── dashboard-screenshots/
 │   ├── charts/
-│   └── README.md
-│
-├── Module-5-Dashboard/
-│   ├── screenshots/
-│   ├── dashboard-links/
-│   └── README.md
-│
-├── Module-6-Presentation/
+│   ├── certificates/
 │   ├── presentation/
-│   ├── pdf-report/
-│   ├── screenshots/
-│   └── README.md
+│   └── report/
 │
-├── screenshots/
-├── README.md
-└── requirements.txt
+├── Module-1-Data-Collection/
+├── Module-2-Data-Wrangling/
+├── Module-3-EDA/
+├── Module-4-Visualization/
+├── Module-5-Dashboard/
+├── Module-6-Presentation/
+│
+└── README.md
 
 Author
 
