@@ -1,339 +1,289 @@
-\# IBM Data Analyst Capstone Project
+# IBM Data Analyst Capstone Project
 
+## Overview
 
+This repository contains my complete IBM Data Analyst Capstone Project completed as part of the IBM Data Analyst Professional Certificate offered by IBM through Coursera.
 
-\## Project Overview
+The project demonstrates a complete end-to-end data analytics workflow using real-world Stack Overflow Developer Survey data. The analysis focuses on identifying current technology trends, future technology trends, database usage patterns, programming language preferences, developer demographics, and salary-related insights.
 
+The capstone project involved:
 
+- Data Collection
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Dashboard Creation
+- Presentation of Findings
 
-This repository contains my completed IBM Data Analyst Capstone Project based on the Stack Overflow Developer Survey dataset.
+---
 
+## Business Scenario
 
+In this project, I worked as a Data Analyst for a global IT and business consulting organization. The objective was to analyze developer survey data to identify emerging technology trends and skill demands within the software development industry.
 
-The project demonstrates the complete data analysis workflow including:
+The analysis helps organizations understand:
 
+- Most popular programming languages
+- Most widely used databases
+- Future technology preferences
+- Developer demographics
+- Salary and compensation trends
+- Technology adoption patterns
 
+---
 
-\- Data Collection
+## Dataset Information
 
-\- Data Wrangling
+The dataset used in this project is based on the Stack Overflow Developer Survey.
 
-\- Exploratory Data Analysis (EDA)
+Dataset Source:
+- Stack Overflow Developer Survey - 
 
-\- Data Visualization
+The dataset contains responses from developers worldwide regarding:
 
-\- Dashboard Development
-https://datastudio.google.com/reporting/9eb7221c-5387-480b-9e1f-045dc11195c1
+- Programming languages
+- Databases
+- Platforms
+- Web frameworks
+- Employment
+- Education
+- Compensation
+- AI tools
+- Developer preferences
 
-\- Presentation of Insights
+A subset of the original dataset was used for analysis in this capstone project.
 
+---
 
+# Project Workflow
 
-This project was completed as part of the IBM Data Analyst Professional Certificate.
+## Module 1 — Data Collection
 
+Collected data from multiple sources including:
 
+- APIs
+- Web scraping
+- CSV files
+- Databases
 
-\---
+Performed initial exploration and analysis of datasets.
 
+### Key Tasks
 
+- Collected job posting data using APIs
+- Performed web scraping for programming language salary analysis
+- Explored developer survey datasets
+- Prepared raw datasets for cleaning and analysis
 
-\# Dataset Information
+---
 
+## Module 2 — Data Wrangling
 
+Prepared datasets for analysis by performing:
 
-The dataset used in this project is derived from the Stack Overflow Developer Survey.
+- Missing value analysis
+- Duplicate removal
+- Data normalization
+- Data cleaning
+- Data preprocessing
 
+### Key Tasks
 
+- Identified duplicate records
+- Removed duplicates
+- Analyzed employment distribution
+- Normalized compensation-related data
+- Prepared clean datasets for EDA
 
-It contains responses from developers worldwide regarding:
+---
 
+## Module 3 — Exploratory Data Analysis (EDA)
 
+Performed statistical and exploratory analysis to identify insights and trends.
 
-\- Programming languages
+### Analysis Included
 
-\- Databases
+- Distribution analysis
+- Outlier detection
+- Correlation analysis
+- Scatter plot analysis
+- Heatmaps
+- Salary analysis
+- Job satisfaction analysis
 
-\- Platforms
+### Techniques Used
 
-\- Web frameworks
+- IQR-based outlier analysis
+- Statistical summaries
+- Correlation analysis
+- Visual trend exploration
 
-\- Employment status
+---
 
-\- Compensation
+## Module 4 — Data Visualization
 
-\- Education
+Created visualizations to communicate insights effectively.
 
-\- Remote work
+### Visualizations Created
 
-\- Job satisfaction
+- Histograms
+- Box plots
+- Scatter plots
+- Bubble plots
+- Pie charts
+- Bar charts
+- Stacked bar charts
+- Line charts
+- Heatmaps
 
-\- Technology preferences
+### Visualization Goals
 
+- Analyze distributions
+- Compare technologies
+- Explore relationships
+- Visualize demographics
+- Identify future trends
 
+---
 
-The dataset provides insights into current industry trends and developer experiences.
+## Module 5 — Dashboard Creation
 
+Built interactive dashboards using Google Looker Studio.
+- https://datastudio.google.com/reporting/9eb7221c-5387-480b-9e1f-045dc11195c1
 
+### Dashboard Tabs
 
-\---
+#### Current Technology Usage
 
+- Top programming languages used
+- Top databases used
+- Platforms used
+- Web frameworks used
 
+#### Future Technology Trends
 
-\# Project Objectives
+- Desired programming languages
+- Desired databases
+- Desired platforms
+- Desired web frameworks
 
+#### Demographics
 
+- Respondent distribution by country
+- Respondent age groups
+- Education levels
 
-The objectives of this project were to:
+---
 
+## Module 6 — Presentation of Findings
 
+Prepared a professional presentation summarizing:
 
-\- Collect and explore data using APIs and web scraping
+- Technology trends
+- Dashboard insights
+- Data visualizations
+- Demographic insights
+- Final conclusions
+- Business implications
 
-\- Clean and preprocess real-world survey data
+The final presentation was exported as PDF format.
 
-\- Handle duplicates and missing values
+---
 
-\- Normalize and transform data
+# Key Findings & Insights
 
-\- Perform exploratory data analysis
+## Programming Language Trends
 
-\- Create meaningful visualizations
+- HTML/CSS, JavaScript, and TypeScript dominated current technology usage trends.
+- Future trends showed strong demand for C#, SQL, TypeScript, and JavaScript.
+- Full-stack development technologies continue to remain highly relevant.
 
-\- Build dashboards to communicate insights
+---
 
-\- Present analytical findings professionally
+## Database Trends
 
+- PostgreSQL emerged as the most widely used and desired database technology.
+- Microsoft SQL Server and MySQL also maintained strong popularity.
+- Developers showed increasing interest in scalable and modern database systems.
 
+---
 
-\---
+## Salary Insights
 
+- Swift showed one of the highest average salary trends.
+- Python and C++ also demonstrated strong salary potential.
+- Specialized technical skills continue to influence compensation positively.
 
+---
 
-\# Technologies Used
+## Dashboard Insights
 
+- Current technology dashboards highlighted strong adoption of modern web technologies.
+- Future trend dashboards indicated growing demand for scalable and cloud-compatible technologies.
+- Demographic dashboards revealed a globally diverse developer community.
 
+---
 
-\- Python
+# Technologies & Tools Used
 
-\- Pandas
+## Programming & Analysis
 
-\- NumPy
+- Python
+- Pandas
+- NumPy
+- SQL
 
-\- Matplotlib
+## Visualization
 
-\- Seaborn
+- Matplotlib
+- Seaborn
+- Google Looker Studio
 
-\- SQL
+## Development Environment
 
-\- Jupyter Notebook
+- Jupyter Notebook
+- Microsoft Excel
+- PowerPoint
+- GitHub
 
-\- IBM Cognos Analytics
+---
 
-\- GitHub
-
-
-
-\---
-
-
-
-\# Repository Structure
-
-
+# Repository Structure
 
 ```text
-
-IBM-Data-Analyst-Capstone/
-
+IBM-Data-Analyst-Capstone-Project/
 │
-
 ├── Module-1-Data-Collection/
-
-├── Module-2-Data-Wrangling/
-
-├── Module-3-EDA/
-
-├── Module-4-Visualization/
-
-├── Module-5-Dashboard/
-
-├── Module-6-Final-Presentation/
-
+│   ├── notebooks/
+│   ├── datasets/
+│   └── README.md
 │
-
-└── assets/
-
-```
-
-
-
-\---
-
-
-
-\# Modules Completed
-
-
-
-\## Module 1 — Data Collection
-
-
-
-\- Collecting Data Using APIs
-
-\- Web Scraping
-
-\- Data Exploration
-
-
-
-\## Module 2 — Data Wrangling
-
-
-
-\- Finding Duplicates
-
-\- Removing Duplicates
-
-\- Handling Missing Values
-
-\- Data Normalization
-
-
-
-\## Module 3 — Exploratory Data Analysis
-
-
-
-\- Distribution Analysis
-
-\- Outlier Detection
-
-\- Correlation Analysis
-
-\- Trend Analysis
-
-
-
-\## Module 4 — Data Visualization
-
-
-
-\- Histograms
-
-\- Scatter Plots
-
-\- Bubble Charts
-
-\- Box Plots
-
-\- Bar Charts
-
-\- Line Charts
-
-\- Stacked Charts
-
-
-
-\## Module 5 — Dashboard Creation
-
-
-
-\- Technology Trends Dashboard
-
-\- Demographic Analysis Dashboard
-
-\- Future Technology Trends Dashboard
-
-
-
-\## Module 6 — Final Presentation
-
-
-
-\- Presentation of Findings
-
-\- Insights and Conclusions
-
-\- Final Project Report
-
-
-
-\---
-
-
-
-\# Key Skills Demonstrated
-
-
-
-\- Data Cleaning
-
-\- Data Transformation
-
-\- Exploratory Data Analysis
-
-\- Statistical Analysis
-
-\- Data Visualization
-
-\- Dashboard Development
-
-\- SQL Querying
-
-\- Analytical Thinking
-
-\- Insight Communication
-
-
-
-\---
-
-
-
-\# Visualizations and Dashboard
-
-
-
-Project charts, visualizations, and dashboard screenshots are available in the `assets` folder.
-
-
-
-\---
-
-
-
-\# Learning Outcomes
-
-
-
-Through this project, I gained practical experience in:
-
-
-
-\- Working with real-world datasets
-
-\- Cleaning and preparing data for analysis
-
-\- Identifying trends and patterns
-
-\- Building visualizations and dashboards
-
-\- Presenting analytical findings professionally
-
-
-
-\---
-
-
-
-\# Author
-
-
-
-T Shreeram Rohit
-
-
-
-IBM Data Analyst Capstone Project
-
+├── Module-2-Data-Wrangling/
+│   ├── notebooks/
+│   ├── datasets/
+│   └── README.md
+│
+├── Module-3-EDA/
+│   ├── notebooks/
+│   ├── visualizations/
+│   └── README.md
+│
+├── Module-4-Data-Visualization/
+│   ├── notebooks/
+│   ├── charts/
+│   └── README.md
+│
+├── Module-5-Dashboard/
+│   ├── screenshots/
+│   ├── dashboard-links/
+│   └── README.md
+│
+├── Module-6-Presentation/
+│   ├── presentation/
+│   ├── pdf-report/
+│   ├── screenshots/
+│   └── README.md
+│
+├── screenshots/
+├── README.md
+└── requirements.txt
