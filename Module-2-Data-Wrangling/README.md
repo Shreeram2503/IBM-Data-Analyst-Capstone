@@ -1,50 +1,66 @@
-\# Module 2 — Data Wrangling
+# Module 2 — Data Wrangling
 
+## Overview
 
+This module focuses on cleaning, preprocessing, and preparing datasets for analysis.
 
-\## Overview
+Data wrangling was performed to improve data quality and ensure consistency before exploratory analysis and visualization.
 
+---
 
+## Objectives
 
-This module focuses on cleaning and preparing raw data for analysis.
+- Find duplicates
+- Remove duplicates
+- Analyze missing values
+- Normalize data
+- Prepare clean datasets
 
+---
 
+## Tasks Performed
 
-\## Topics Covered
+### Duplicate Analysis
 
+- Identified duplicate rows
+- Removed duplicate records
 
+### Missing Value Analysis
 
-\- Finding duplicates
+- Calculated missing values per column
+- Analyzed incomplete data patterns
 
-\- Removing duplicates
+### Employment Analysis
 
-\- Handling missing values
+- Explored employment distribution among respondents
+- Analyzed employment-related categories
 
-\- Data normalization
+### Data Normalization
 
+Normalized compensation-related columns for improved comparison and analysis.
 
+---
 
-\## Tools Used
+## Techniques Used
 
+- Data cleaning
+- Missing value handling
+- Duplicate removal
+- Data normalization
+- Data preprocessing
 
+---
 
-\- Python
+## Tools Used
 
-\- Pandas
+- Python
+- Pandas
+- NumPy
 
-\- NumPy
+---
 
+## Outcomes
 
-
-\## Key Learnings
-
-
-
-\- Cleaning messy datasets
-
-\- Handling null values
-
-\- Preparing data for analysis
-
-\- Improving data quality
-
+- Improved dataset consistency
+- Prepared clean data for EDA and visualization
+- Standardized salary-related data fields
