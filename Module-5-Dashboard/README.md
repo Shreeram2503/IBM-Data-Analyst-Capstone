@@ -1,44 +1,76 @@
-\# Module 5 — Dashboard Creation
+# Module 5 — Dashboard Creation
 
+## Overview
 
+This module focuses on building interactive dashboards using Google Looker Studio to visualize technology trends and developer insights.
 
-\## Overview
+---
 
+## Dashboard Tool
 
+- Google Looker Studio
+- https://datastudio.google.com/reporting/9eb7221c-5387-480b-9e1f-045dc11195c1
 
-This module focuses on building dashboards to visualize technology trends and survey insights.
+---
 
+## Dashboard Sections
 
+### Current Technology Usage
 
-\## Topics Covered
+Visualizations Included:
 
+- Top programming languages used
+- Top databases used
+- Platforms used
+- Web frameworks used
 
+### Future Technology Trends
 
-\- Current technology trends
+Visualizations Included:
 
-\- Future technology preferences
+- Desired programming languages
+- Desired databases
+- Desired platforms
+- Desired web frameworks
 
-\- Demographic analysis
+### Demographics
 
+Visualizations Included:
 
+- Respondents by country
+- Age groups
+- Education levels
+- Demographic distributions
 
-\## Tools Used
+---
 
+## Dashboard Insights
 
+### Current Technology Usage
 
-\- IBM Cognos Analytics
+The dashboard highlighted strong adoption of HTML/CSS, JavaScript, TypeScript, PostgreSQL, and modern web technologies.
 
+### Future Technology Trends
 
+The dashboard indicated increasing demand for scalable full-stack development technologies and modern databases.
 
-\## Key Learnings
+### Demographics
 
+The dashboard revealed a globally diverse developer community with strong participation from professionally educated developers.
 
+---
 
-\- Dashboard creation
+## Dashboard Features
 
-\- Interactive visualization
+- Interactive visualizations
+- Comparative analysis
+- Trend exploration
+- Demographic insights
 
-\- Data storytelling
+---
 
-\- Insight presentation
+## Outcomes
 
+- Built professional dashboards
+- Improved dashboard storytelling skills
+- Visualized complex insights effectively
