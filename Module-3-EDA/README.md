@@ -1,52 +1,72 @@
-\# Module 3 — Exploratory Data Analysis
+# Module 3 — Exploratory Data Analysis (EDA)
 
+## Overview
 
+This module focuses on exploring datasets using statistical analysis and visual techniques to identify trends, relationships, and insights.
 
-\## Overview
+---
 
+## Objectives
 
+- Analyze data distributions
+- Detect outliers
+- Study correlations
+- Explore technology trends
+- Analyze compensation and demographics
 
-This module focuses on analyzing data distributions, trends, and relationships.
+---
 
+## Tasks Performed
 
+### Distribution Analysis
 
-\## Topics Covered
+- Histograms
+- Statistical summaries
+- Distribution comparisons
 
+### Outlier Detection
 
+- IQR analysis
+- Upper and lower bound calculations
+- Compensation outlier analysis
 
-\- Distribution analysis
+### Correlation Analysis
 
-\- Outlier detection
+- Correlation matrices
+- Heatmaps
+- Scatter plots
 
-\- Correlation analysis
+### Relationship Analysis
 
-\- Trend analysis
+- Age vs compensation
+- Job satisfaction trends
+- Technology preference analysis
 
+---
 
+## Visualizations Created
 
-\## Tools Used
+- Histograms
+- Box plots
+- Heatmaps
+- Scatter plots
+- Bubble plots
 
+---
 
+## Tools Used
 
-\- Python
+- Python
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
 
-\- Pandas
+---
 
-\- Matplotlib
+## Key Outcomes
 
-\- Seaborn
-
-
-
-\## Key Learnings
-
-
-
-\- Understanding dataset structure
-
-\- Detecting patterns and trends
-
-\- Identifying outliers
-
-\- Exploring variable relationships
-
+- Identified technology adoption patterns
+- Analyzed compensation distributions
+- Explored developer satisfaction trends
+- Improved understanding of dataset relationships
