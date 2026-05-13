@@ -1,56 +1,73 @@
-\# Module 4 — Data Visualization
+# Module 4 — Data Visualization
 
+## Overview
 
+This module focuses on creating meaningful visualizations to communicate insights from the Stack Overflow Developer Survey dataset.
 
-\## Overview
+---
 
+## Objectives
 
+- Visualize distributions
+- Visualize relationships
+- Visualize comparisons
+- Visualize compositions of data
 
-This module focuses on creating visualizations to communicate insights effectively.
+---
 
+## Visualizations Created
 
+### Distribution Visualizations
 
-\## Topics Covered
+- Histograms
+- Box plots
 
+### Relationship Visualizations
 
+- Scatter plots
+- Bubble plots
 
-\- Histograms
+### Composition Visualizations
 
-\- Scatter plots
+- Pie charts
+- Bar charts
+- Stacked bar charts
 
-\- Bubble charts
+### Comparison Visualizations
 
-\- Box plots
+- Line charts
+- Comparative bar charts
 
-\- Bar charts
+---
 
-\- Line charts
+## Analysis Areas
 
-\- Stacked charts
+- Programming language trends
+- Database trends
+- Developer demographics
+- Compensation analysis
+- Job satisfaction analysis
 
+---
 
+## Key Insights
 
-\## Tools Used
+- HTML/CSS, JavaScript, and TypeScript dominated current language trends.
+- PostgreSQL showed the strongest database popularity.
+- Future technology trends indicated increasing interest in modern full-stack technologies.
 
+---
 
+## Tools Used
 
-\- Python
+- Python
+- Matplotlib
+- Seaborn
 
-\- Matplotlib
+---
 
-\- Seaborn
+## Outcomes
 
-
-
-\## Key Learnings
-
-
-
-\- Visual storytelling
-
-\- Creating analytical charts
-
-\- Comparing data visually
-
-\- Communicating trends and insights
-
+- Built effective visual storytelling skills
+- Improved interpretation of technology trends
+- Created professional analytical visualizations
